@@ -39,6 +39,6 @@ To implement a CNN-RNN model, we reduced the dimensionality of the dataset throu
 
 The training procedure is identical to before.
 
-## Newly proposed model
+## Newly proposed models
 
 In the final part I propose two models, `final_model_eff()` and `final_model_acc()`, which both significantly increase the classification accuracy. While `final_model_eff()` is more efficient, `final_model_acc()` attains the highest accuracies overall. The intuition behind both models and their implementation is further explained in the `main.ipynb` file. 
